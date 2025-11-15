@@ -5,12 +5,14 @@ OSCify is a small Python program that lets you control Spotify Desktop on Window
 Play / Pause
 Next Track
 Previous Track
-Volume control (Radial Puppet)
+Volume Control
 
 ### VRChat Parameter Setup
-| First Header  | Second Header | Second Header |
+| Parameter Name | Parameter Type | Menu Type |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| skipTrack  | Bool | Button  |
+| previousTrack  | Bool  | Button  |
+| pausePlay  | Bool  | Button  |
+| spotVolume  | Float  | Radial Puppet  |
 
 VRChat menu icons provided by [Flaticon](https://www.flaticon.com)
