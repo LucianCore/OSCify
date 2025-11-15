@@ -1,2 +1,5 @@
-# OSCify
-OSCify is a program that allows you to control Spotify Desktop on Windows using VRChat avatar parameters over OSC.
+## OSCify | VRChat to Spotify Controller
+OSCify is a small Python program that lets you control Spotify Desktop on Windows from your VRChat avatar using it's parameters.
+It supports play/pause, next/previous track, and volume of the spotify ddesktop app.
+
+# VRChat Setup
