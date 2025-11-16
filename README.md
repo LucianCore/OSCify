@@ -16,7 +16,7 @@ OSCify is a Python program that lets you control Spotify Desktop on Windows from
 | spotVolume  | Float  | Radial Puppet  |
   <br />
   
-Parameters can be easily added using [Avatars 3.0 Manager](https://github.com/VRLabs/Avatars-3.0-Manager) <br />
+Parameters can be easily added using [Avatars 3.0 Manager](https://github.com/LucianCore/OSCify/blob/7a97207ad3a0b34dd34133696a8364e15af1a553/3.0Example.png) <br />
   
 ![ ](https://github.com/nots4gey/OSCify/blob/bcbc5badf7a747ad05e0268e817d8297fee5d048/AvatarManager3.0.png)
   <br />
